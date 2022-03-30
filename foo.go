@@ -5,9 +5,9 @@ import (
 	"flag"
 	"fmt"
 	"github.com/apache/trafficcontrol/lib/go-log"
-	"github.com/apache/trafficcontrol/traffic_ops/traffic_ops_golang/api"
-	"github.com/apache/trafficcontrol/traffic_ops/traffic_ops_golang/auth"
-	"github.com/apache/trafficcontrol/traffic_ops/traffic_ops_golang/routing"
+	//"github.com/apache/trafficcontrol/traffic_ops/traffic_ops_golang/api"
+	//"github.com/apache/trafficcontrol/traffic_ops/traffic_ops_golang/auth"
+	//"github.com/apache/trafficcontrol/traffic_ops/traffic_ops_golang/routing"
 	"github.com/srijeet0406/backendservice/config"
 	"net/http"
 	"os"
@@ -53,21 +53,21 @@ func main() {
 	server.TLSConfig.InsecureSkipVerify = cfg.Insecure
 
 
-	routing.Srijeet(0,
-		routing.Route{
-		Version:             api.Version{
-			Major: 4,
-			Minor: 0,
-		},
-		Method:              http.MethodGet,
-		Path:                "foo",
-		Handler:             foo,
-		RequiredPrivLevel:   auth.PrivLevelReadOnly,
-		RequiredPermissions: nil,
-		Authenticated:       true,
-		Middlewares:         nil,
-		ID:                  123456789,
-	}, cfg)
+	//routing.Srijeet(0,
+	//	routing.Route{
+	//	Version:             api.Version{
+	//		Major: 4,
+	//		Minor: 0,
+	//	},
+	//	Method:              http.MethodGet,
+	//	Path:                "foo",
+	//	Handler:             foo,
+	//	RequiredPrivLevel:   auth.PrivLevelReadOnly,
+	//	RequiredPermissions: nil,
+	//	Authenticated:       true,
+	//	Middlewares:         nil,
+	//	ID:                  123456789,
+	//}, cfg)
 
 	go func() {
 		if cfg.KeyPath == "" {
