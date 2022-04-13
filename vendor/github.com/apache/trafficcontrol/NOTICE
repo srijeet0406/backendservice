@@ -1,0 +1,21 @@
+Apache Traffic Control
+Copyright 2016-2019 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+Portions of this software were developed at
+Comcast (http://www.comcast.com/).
+
+Portions of this software were developed at
+Cisco Systems, Inc. (http://www.cisco.com)
+
+This product includes GeoLite2 data created by MaxMind, available from
+<a href="http://www.maxmind.com">http://www.maxmind.com</a>.
+
+These binary fonts are provided under the SIL Open Font License 1.1 (see LICENSE and licenses/SIL-1.1 for details):
+  - FontAwesome          (http://fontawesome.io/license/)
+  - Inconsolata-Bold.ttf (https://github.com/google/fonts/blob/master/ofl/inconsolata/OFL.txt)
+  - Inconsolata.ttf      (https://github.com/google/fonts/blob/master/ofl/inconsolata/OFL.txt)
+  - Lato-Bold.ttf        (https://github.com/google/fonts/blob/master/ofl/lato/OFL.txt)
+  - Lato-Regular.ttf     (https://github.com/google/fonts/blob/master/ofl/lato/OFL.txt)

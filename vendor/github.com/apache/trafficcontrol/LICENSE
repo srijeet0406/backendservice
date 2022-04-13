@@ -1,0 +1,714 @@
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright [yyyy] [name of copyright owner]
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+
+APACHE TRAFFICCONTROL SUBCOMPONENTS:
+
+Apache Traffic Control includes a number of subcomponents with
+separate copyright notices and license terms. Your use of the source
+code for the these subcomponents is subject to the terms and
+conditions of the following licenses.
+
+For readability, subcomponent licenses have been broken out into their own
+files, largely located in the licenses directory. Each subcomponent enumerated
+below lists the files it comprises and a link to the full text of the license.
+
+This product bundles binary fontawesome fonts, which are available under an SIL OFL 1.1 license.
+@traffic_portal/app/src/assets/fonts/[Ff]ont[Aa]wesome*
+./licenses/SIL-1.1
+Refer to the above license for the full text.
+
+This product bundles fontawesome CSS files, which are available under an MIT license.
+./licenses/MIT-fontawesome
+Refer to the above license for the full text.
+
+This product bundles normalize.css, which is available under an MIT license.
+./licenses/MIT-normalize
+Refer to the above license for the full text.
+
+This product bundles jQuery, which is available under an MIT license.
+./licenses/MIT-jquery
+Refer to the above license for the full text.
+
+This product bundles JSON formatter, which is available under an Apache-2.0 license.
+@traffic_portal/app/src/assets/*/jsonformatter.min_0.6.0.*
+./licenses/AL2-jsonformatter
+Refer to the above license for the full text.
+
+This product bundles DataTables, which is available under an MIT license.
+@traffic_portal/app/src/assets/css/jquery.dataTables.min_1.10.9.css
+./licenses/MIT-datatables
+Refer to the above license for the full text.
+
+This product bundles DataTables, which is available under an MIT license.
+@traffic_portal/app/src/assets/js/jquery.dataTables.min_1.10.19_patched.js
+./licenses/MIT-datatables
+Refer to the above license for the full text.
+
+This product bundles DataTables, which is available under an MIT license.
+@traffic_portal/app/src/assets/images/sort_*
+./licenses/MIT-datatables
+Refer to the above license for the full text.
+
+This product bundles DataTables ColReorder, which is available under an MIT license.
+@traffic_portal/app/src/assets/css/colReorder.dataTables.min_1.5.1.css
+./licenses/MIT-ColReorder
+Refer to the above license for the full text.
+
+This product bundles DataTables ColReorder, which is available under an MIT license.
+@traffic_portal/app/src/assets/js/colReorder.dataTables.min_1.5.1.js
+./licenses/MIT-ColReorder
+Refer to the above license for the full text.
+
+This product bundles DataTables Buttons, which is available under an MIT license.
+@traffic_portal/app/src/assets/js/dataTables.buttons.min_1.5.6.js
+./licenses/MIT-datatables-buttons
+Refer to the above license for the full text.
+
+This product bundles HTML5 Buttons, which is available under an MIT license.
+@traffic_portal/app/src/assets/js/buttons.html5.min_1.5.6.js
+./licenses/MIT-buttons-html5
+Refer to the above license for the full text.
+
+This product bundles moment.js, which is available under an MIT license.
+@traffic_portal/app/src/assets/js/moment-min_2.22.1.js
+./licenses/MIT-momentjs
+Refer to the above license for the full text.
+
+This product bundles jsdiff, which is available under a BSD-3-Clause license.
+@traffic_portal/app/src/assets/js/jsdiff-min_3.5.0.js
+./licenses/BSD-jsdiff
+Refer to the above license for the full text.
+
+This product bundles fast-json-patch, which is available under an MIT license.
+@traffic_portal/app/src/assets/js/fast-json-patch_v2.1.0.js
+./licenses/MIT-fast-json-patch
+Refer to the above license for the full text.
+
+This product bundles angular-moment-picker, which is available under an MIT license.
+@traffic_portal/app/src/assets/css/angular-moment-picker_0.10.2.css
+./licenses/MIT-angular_moment_picker
+Refer to the above license for the full text.
+
+This product bundles angular-moment-picker, which is available under an MIT license.
+@traffic_portal/app/src/assets/js/moment-picker/angular-moment-picker.min_0.10.2.js
+./licenses/MIT-angular_moment_picker
+Refer to the above license for the full text.
+
+This product bundles angular-ui-tree, which is available under an MIT license.
+@traffic_portal/app/src/assets/css/angular-ui-tree.min_2.22.6.css
+./licenses/MIT-angular_ui_tree
+Refer to the above license for the full text.
+
+This product bundles angular-ui-tree, which is available under an MIT license.
+@traffic_portal/app/src/assets/js/angular-ui-tree.min_2.22.6.js
+./licenses/MIT-angular_ui_tree
+Refer to the above license for the full text.
+
+This product bundles Chart.js, which is available under an MIT license.
+@traffic_portal/app/src/assets/js/chartjs/Chart.min_2.7.2.js
+./licenses/MIT-chartjs
+Refer to the above license for the full text.
+
+This product bundles angular-chart.js, which is available under a BSD-2-Clause license.
+@traffic_portal/app/src/assets/js/chartjs/angular-chart.min_1.1.1.js
+./licenses/BSD-angular-chartjs
+Refer to the above license for the full text.
+
+This product bundles downloadjs, which is available under an MIT license.
+@traffic_portal/app/src/assets/js/downloadjs-min_v4.21.js
+./licenses/MIT-downloadjs
+Refer to the above license for the full text.
+
+This product bundles angular-loading-bar, which is available under an MIT license.
+@traffic_portal/app/src/styles/loading.scss
+./licenses/MIT-angular_loading_bar
+Refer to the above license for the full text.
+
+This product bundles the gentelella admin theme, which is available under an MIT license.
+@traffic_portal/app/src/styles/theme.scss
+./licenses/MIT-gentelella
+Refer to the above license for the full text.
+
+This product bundles underscore, which is available under an MIT license.
+@traffic_portal/app/src/assets/js/underscore-min_1.8.3.js
+./licenses/MIT-underscore
+Refer to the above license for the full text.
+
+This product bundles stoppableListener, which is available under a BSD-2-Clause license.
+@vendor/github.com/hydrogen18/stoppableListener/*
+./vendor/github.com/hydrogen18/stoppableListener/LICENSE
+Refer to the above license for the full text.
+
+This product bundles fsnotify, which is available under a BSD-3-Clause license.
+@vendor/github.com/fsnotify/fsnotify/*
+./vendor/github.com/fsnotify/fsnotify/LICENSE
+Refer to the above license for the full text.
+
+This product bundles gopkg.in/tomb.v1, which is available under a BSD-3-Clause license.
+@vendor/gopkg.in/tomb.v1/*
+./vendor/gopkg.in/tomb.v1/LICENSE
+Refer to the above license for the full text.
+
+This product bundles yaml, which is available under an Apache-2.0 license.
+@vendor/gopkg.in/yaml.v2/*
+./vendor/gopkg.in/yaml.v2/LICENSE
+./vendor/gopkg.in/yaml.v2/LICENSE.libyaml
+Refer to the above license for the full text.
+
+This product bundles pq, which is available under an MIT license.
+@vendor/github.com/lib/pq/*
+./vendor/github.com/lib/pq/LICENSE.md
+Refer to the above license for the full text.
+
+This product bundles influxdb, which is available under an MIT license.
+@vendor/github.com/influxdata/influxdb/*
+./vendor/github.com/influxdata/influxdb/LICENSE
+./vendor/github.com/influxdata/influxdb/LICENSE_OF_DEPENDENCIES.md
+Refer to the above license for the full text.
+
+This product bundles the MaxMind DB GeoLite2 Database, which is available under a CC-BY-SA-4.0 license.
+@traffic_router/core/src/test/resources/geo/GeoLite2-City.mmdb.gz
+./licenses/CC_A_SA_4-maxmind
+Refer to the above license for the full text.
+
+This product bundles a gofmt git pre-commit hook, which is available under a BSD-3-Clause license.
+@misc/git/pre-commit-hooks/01-gofmt
+./licenses/BSD-go
+Refer to the above license for the full text.
+
+This product bundles the IPv6 Perl Module, which is available under a Artistic 2.0 license.
+@traffic_ops/app/bin/checks/NetPacket/IPv6.pm
+./licenses/ISC-netpacket_ipv6
+Refer to the above license for the full text.
+
+This product bundles cropper, which is available under an MIT license.
+@traffic_portal/app/src/styles/main.scss
+./licenses/MIT-cropper
+Refer to the above license for the full text.
+
+This product bundles bootstrap-vertical-tabs, which is available under an MIT license.
+@traffic_portal/app/src/styles/main.scss
+./licenses/MIT-bootstrap_vertical_tabs
+Refer to the above license for the full text.
+
+This product bundles bootstrap-progressbar, which is available under an MIT license.
+@traffic_portal/app/src/styles/main.scss
+./licenses/MIT-bootstrap_progressbar
+Refer to the above license for the full text.
+
+This product bundles seelog, which is available under a BSD-3-Clause license.
+@vendor/github.com/cihub/seelog/*
+./vendor/github.com/cihub/seelog/LICENSE.txt
+Refer to the above license for the full text.
+
+This product bundles an invalid_passwords.txt file from the Projects/OWASP SecLists Project, which is available under an MIT license.
+@traffic_ops/app/conf/invalid_passwords.txt
+./licenses/MIT-SecLists
+Refer to the above license for the full text.
+
+This product bundles go-sqlmock, which is available under a BSD-3-Clause license.
+@vendor/gopkg.in/DATA-DOG/go-sqlmock.v1/*
+./vendor/gopkg.in/DATA-DOG/go-sqlmock.v1/LICENSE
+Refer to the above license for the full text.
+
+This product bundles jwx, which is available under an MIT license.
+@vendor/github.com/lestrrat-go/jwx/*
+./vendor/github.com/lestrrat-go/jwx/LICENSE
+Refer to the above license for the full text.
+
+This product bundles dcrd/dcrec/secp256k1/v4, which is available under an Artistic 2.0 license.
+@vendor/github.com/decred/dcrd/dcrec/secp256k1/v4/*
+./vendor/github.com/decred/dcrd/dcrec/secp256k1/v4/LICENSE
+Refer to the above license for the full text.
+
+
+This product bundles backoff/v2, which is available under an MIT license.
+@vendor/github.com/lestrrat-go/backoff/v2/*
+./vendor/github.com/lestrrat-go/backoff/v2/LICENSE
+Refer to the above license for the full text.
+
+This product bundles blackmagic, which is available under an MIT license.
+@vendor/github.com/lestrrat-go/blackmagic/*
+./vendor/github.com/lestrrat-go/blackmagic/LICENSE
+Refer to the above license for the full text.
+
+This product bundles httpcc, which is available under an MIT license.
+@vendor/github.com/lestrrat-go/httpcc/*
+./vendor/github.com/lestrrat-go/httpcc/LICENSE
+Refer to the above license for the full text.
+
+This product bundles iter, which is available under an MIT license.
+@vendor/github.com/lestrrat-go/iter/*
+./vendor/github.com/lestrrat-go/iter/LICENSE
+Refer to the above license for the full text.
+
+This product bundles blackmagic, which is available under an MIT license.
+@vendor/github.com/lestrrat-go/option/*
+./vendor/github.com/lestrrat-go/option/LICENSE
+Refer to the above license for the full text.
+
+This product bundles go-json, which is available under an MIT license.
+@vendor/github.com/goccy/go-json/*
+./vendor/github.com/goccy/go-json/LICENSE
+Refer to the above license for the full text.
+
+This product bundles protobuf, which is available under a BSD-3-Clause license.
+@vendor/github.com/golang/protobuf/*
+./vendor/github.com/golang/protobuf/LICENSE
+Refer to the above license for the full text.
+
+This product bundles sqlx, which is available under an MIT license.
+@vendor/github.com/jmoiron/sqlx/*
+./vendor/github.com/jmoiron/sqlx/LICENSE
+Refer to the above license for the full text.
+
+This product bundles backoff, which is available under an MIT license.
+@vendor/github.com/basho/backoff/*
+./vendor/github.com/basho/backoff/README.md
+Refer to the above license for the full text.
+
+This product bundles riak-go-client, which is available under an Apache-2.0 license.
+@vendor/github.com/basho/riak-go-client/*
+./vendor/github.com/basho/riak-go-client/LICENSE
+Refer to the above license for the full text.
+
+This product bundles envconfig, which is available under an MIT license.
+@vendor/github.com/kelseyhightower/envconfig/*
+./vendor/github.com/kelseyhightower/envconfig/LICENSE
+Refer to the above license for the full text.
+
+This product bundles govalidator, which is available under an MIT license.
+@vendor/github.com/asaskevich/govalidator/*
+./vendor/github.com/asaskevich/govalidator/LICENSE
+Refer to the above license for the full text.
+
+This product bundles ozzo-validation, which is available under an MIT license.
+@vendor/github.com/go-ozzo/ozzo-validation/*
+./vendor/github.com/go-ozzo/ozzo-validation/LICENSE
+Refer to the above license for the full text.
+
+This product bundles bytefmt, which is available under an Apache-2.0 license.
+@vendor/code.cloudfoundry.org/bytefmt/*
+./vendor/code.cloudfoundry.org/bytefmt/LICENSE
+Refer to the above license for the full text.
+
+This product bundles bbolt, which is available under an MIT license.
+@vendor/go.etcd.io/bbolt/*
+./vendor/go.etcd.io/bbolt/LICENSE
+Refer to the above license for the full text.
+
+This product bundles siphash, which is available under a CC0-1.0 license.
+@vendor/github.com/dchest/siphash/*
+./licenses/CC0
+Refer to the above license for the full text.
+
+This product bundles miekg/dns, which is available under a BSD-3-Clause license.
+@vendor/github.com/miekg/dns/*
+./vendor/github.com/miekg/dns/LICENSE
+Refer to the above license for the full text.
+
+This product bundles ldap/v3 component, which is available under an MIT license.
+@vendor/github.com/go-ldap/ldap/v3/*
+./vendor/github.com/go-ldap/ldap/v3/LICENSE
+Refer to the above license for the full text.
+
+This product bundles go-ntlmssp component, which is available under an MIT license.
+@vendor/github.com/Azure/go-ntlmssp/*
+./vendor/github.com/Azure/go-ntlmssp/LICENSE
+Refer to the above license for the full text.
+
+This product bundles go-asn1-ber component, which is available under an MIT license.
+@vendor/github.com/go-asn1-ber/asn1-ber/*
+vendor/github.com/go-asn1-ber/asn1-ber/LICENSE
+Refer to the above license for the full text.
+
+This product bundles an example video for fakeOrigin, which is available under an CC-PDM-1.0 license.
+@test/fakeOrigin/example/video/*
+./test/fakeOrigin/example/video/LICENSE
+Refer to the above license for the full text.
+
+This product bundles json-iterator/go, which is available under an MIT license.
+@vendor/github.com/json-iterator/go/*
+./vendor/github.com/json-iterator/go/LICENSE
+Refer to the above license for the full text.
+
+This product bundles modern-go/concurrent, which is available under an Apache-2.0 license.
+@vendor/github.com/modern-go/concurrent/*
+./vendor/github.com/modern-go/concurrent/LICENSE
+Refer to the above license for the full text.
+
+This product bundles modern-go/reflect2, which is available under an Apache-2.0 license.
+@vendor/github.com/modern-go/reflect2/*
+./vendor/github.com/modern-go/reflect2/LICENSE
+Refer to the above license for the full text.
+
+This product bundles nxadm/tail, which is available under an MIT license.
+@vendor/github.com/nxadm/tail/*
+./vendor/github.com/nxadm/tail/LICENSE
+Refer to the above license for the full text.
+
+This product bundles onsi/gomega, which is available under an MIT license.
+@vendor/github.com/onsi/gomega/*
+./vendor/github.com/onsi/gomega/LICENSE
+Refer to the above license for the full text.
+
+This product bundles onsi/ginkgo, which is available under an MIT license.
+@vendor/github.com/onsi/ginkgo/*
+./vendor/github.com/onsi/ginkgo/LICENSE
+Refer to the above license for the full text.
+
+This product bundles lestrrat-go/jwx, which is available under an MIT license.
+@vendor/github.com/lestrrat-go/jwx/*
+./vendor/github.com/lestrrat-go/jwx/LICENSE
+Refer to the above license for the full text.
+
+This product bundles errors, which is available under a BSD-2-Clause license.
+@vendor/github.com/pkg/errors/*
+./vendor/github.com/pkg/errors/LICENSE
+Refer to the above license for the full text.
+
+This product bundles GehirnInc/crypt, which is available under a BSD-2-Clause license.
+@vendor/github.com/GehirnInc/crypt/*
+./vendor/github.com/GehirnInc/crypt/LICENSE
+Refer to the above license for the full text.
+
+This product bundles go-acme/lego, which is available under an MIT license.
+@vendor/github.com/go-acme/lego/*
+./vendor/github.com/go-acme/lego/LICENSE
+Refer to the above license for the full text.
+
+This product bundles google/uuid, which is available under a BSD-3-Clause license.
+@vendor/github.com/google/uuid/*
+./vendor/github.com/google/uuid/LICENSE
+Refer to the above license for the full text.
+
+This product bundles gofrs/flock, which is available under a BSD-3-Clause license.
+@vendor/github.com/gofrs/flock/*
+./vendor/github.com/gofrs/flock/LICENSE
+Refer to the above license for the full text.
+
+This product bundles pborman/getopt/v2, which is available under a BSD-3-Clause license.
+@vendor/github.com/pborman/getopt/v2/*
+vendor/github.com/pborman/getopt/v2/LICENSE
+Refer to the above license for the full text.
+
+This product bundles gopkg.in/square/go-jose.v2/json, which is available under a BSD-3-Clause license.
+@vendor/gopkg.in/square/go-jose.v2/json/*
+./vendor/gopkg.in/square/go-jose.v2/json/LICENSE
+Refer to the above license for the full text.
+
+This product bundles gopkg.in/square/go-jose.v2, which is available under an Apache-2.0 license.
+@vendor/gopkg.in/square/go-jose.v2/*
+./vendor/gopkg.in/square/go-jose.v2/LICENSE
+Refer to the above license for the full text.
+
+This product bundles cenkalti/backoff, which is available under an MIT license.
+@vendor/github.com/cenkalti/backoff/*
+./vendor/github.com/cenkalti/backoff/LICENSE
+Refer to the above license for the full text.
+
+This product bundles kylelemons/godebug, which is available under an Apache-2.0 license.
+@vendor/github.com/kylelemons/godebug/*
+./vendor/github.com/kylelemons/godebug/LICENSE
+Refer to the above license for the full text.
+
+This product bundles golang-migrate/migrate, which is available under an MIT license.
+@vendor/github.com/golang-migrate/migrate/v4/*
+./vendor/github.com/golang-migrate/migrate/v4/LICENSE
+Refer to the above license for the full text.
+
+This product bundles hashicorp/errwrap, which is available under an MPL-2.0 license.
+@vendor/github.com/hashicorp/errwrap/*
+./vendor/github.com/hashicorp/errwrap/LICENSE
+Refer to the above license for the full text.
+
+This product bundles hashicorp/go-multierror, which is available under an MPL-2.0 license.
+@vendor/github.com/hashicorp/go-multierror/*
+./vendor/github.com/hashicorp/go-multierror/LICENSE
+Refer to the above license for the full text.
+
+This product bundles google.golang.org/protobuf, which is available under a BSD-3-Clause license.
+@vendor/google.golang.org/protobuf/*
+./vendor/google.golang.org/protobuf/LICENSE
+Refer to the above license for the full text.
+
+This product bundles go.uber.org/atomic, which is available under an MIT license.
+@vendor/go.uber.org/atomic/*
+./vendor/go.uber.org/atomic/LICENSE.txt
+Refer to the above license for the full text.
+
+This product bundles Shopify/sarama, which is available under an MIT license.
+@vendor/github.com/Shopify/sarama/*
+./vendor/github.com/Shopify/sarama/LICENSE
+Refer to the above license for the full text.
+
+This product bundles davecgh/go-spew, which is available under an ISC license.
+@vendor/github.com/davecgh/go-spew/*
+./vendor/github.com/davecgh/go-spew/LICENSE
+Refer to the above license for the full text.
+
+This product bundles eapache/go-resiliency, which is available under an MIT license.
+@vendor/github.com/eapache/go-resiliency/*
+./vendor/github.com/eapache/go-resiliency/LICENSE
+Refer to the above license for the full text.
+
+This product bundles eapache/go-xerial-snappy, which is available under an MIT license.
+@vendor/github.com/eapache/go-xerial-snappy/*
+./vendor/github.com/eapache/go-xerial-snappy/LICENSE
+Refer to the above license for the full text.
+
+This product bundles eapache/queue, which is available under an MIT license.
+@vendor/github.com/eapache/queue/*
+./vendor/github.com/eapache/queue/LICENSE
+Refer to the above license for the full text.
+
+This product bundles golang/snappy, which is available under a BSD-3-Clause license.
+@vendor/github.com/golang/snappy/*
+./vendor/github.com/golang/snappy/LICENSE
+Refer to the above license for the full text.
+
+This product bundles hashicorp/go-uuid, which is available under an MPL-2.0 license.
+@vendor/github.com/hashicorp/go-uuid/*
+./vendor/github.com/hashicorp/go-uuid/LICENSE
+Refer to the above license for the full text.
+
+This product bundles jcmturner/gofork, which is available under a BSD-3-Clause license.
+@vendor/github.com/jcmturner/gofork/*
+./vendor/github.com/jcmturner/gofork/LICENSE
+Refer to the above license for the full text.
+
+This product bundles klauspost/compress, which is available under a BSD-3-Clause, Apache 2.0 and MIT license.
+@vendor/github.com/klauspost/compress/*
+./vendor/github.com/klauspost/compress/LICENSE
+Refer to the above license for the full text.
+
+This product bundles pierrec/lz4, which is available under a BSD-3-Clause license.
+@vendor/github.com/pierrec/lz4/*
+./vendor/github.com/pierrec/lz4/LICENSE
+Refer to the above license for the full text.
+
+This product bundles rcrowley/go-metrics, which is available under a BSD-2-Clause license.
+@vendor/github.com/rcrowley/go-metrics/*
+./vendor/github.com/rcrowley/go-metrics/LICENSE
+Refer to the above license for the full text.
+
+This product bundles jcmturner/aescts.v1, which is available under an Apache-2.0 license.
+@vendor/gopkg.in/jcmturner/aescts.v1/*
+./vendor/gopkg.in/jcmturner/aescts.v1/LICENSE
+Refer to the above license for the full text.
+
+This product bundles jcmturner/dnsutils.v1, which is available under an Apache-2.0 license.
+@vendor/gopkg.in/jcmturner/dnsutils.v1/*
+./vendor/gopkg.in/jcmturner/dnsutils.v1/LICENSE
+Refer to the above license for the full text.
+
+This product bundles jcmturner/gokrb5.v7, which is available under an Apache-2.0 license.
+@vendor/gopkg.in/jcmturner/gokrb5.v7/*
+./vendor/gopkg.in/jcmturner/gokrb5.v7/LICENSE
+Refer to the above license for the full text.
+
+This product bundles jcmturner/rpc.v1, which is available under an Apache-2.0 license.
+@vendor/gopkg.in/jcmturner/rpc.v1/*
+./vendor/gopkg.in/jcmturner/rpc.v1/LICENSE
+Refer to the above license for the full text.
